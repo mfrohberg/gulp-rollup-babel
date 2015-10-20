@@ -1,0 +1,19 @@
+{
+  "name": "gulp-rollup-babel",
+  "version": "1.0.0",
+  "description": "gulp plugin for rollup-babel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "rollup-babel": "^0.6.1",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0"
+  }
+}
